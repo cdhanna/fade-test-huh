@@ -1,0 +1,52 @@
+{
+  "parent": null,
+  "author": "cdhanna",
+  "time": "2026-05-28T05:08:59.980Z",
+  "message": "Initial commit from Fade playground",
+  "tree": {
+    "Rusty_Can.xnb": {
+      "hash": "0e514b31f48d16ef04d0d6f6c64f204e888ba5e83822b4643c19ef05ddbebe98",
+      "size": 1109,
+      "binary": true
+    },
+    "ScreenEffect.xnb": {
+      "hash": "39e91ae777bca238216b9088cf476d42aca78be17d05ef3a979a7cd5e7dca098",
+      "size": 15593,
+      "binary": true
+    },
+    "Surgeonfish.xnb": {
+      "hash": "7d923f1479f2c60150c0311b86e8452013e55d9822d00cd780bcba60618850e7",
+      "size": 1109,
+      "binary": true
+    },
+    "bubble-pop-4.xnb": {
+      "hash": "c804201a6d1fc09df67c4586a1645c259499c387e024c6a53fab72b5c58d3a0d",
+      "size": 207465,
+      "binary": true
+    },
+    "fade.json": {
+      "hash": "8363d4e8d886b0faf383dc93c3bcf134dd0066495ce77780ab6c8a4bd7e25aa7",
+      "size": 135
+    },
+    "main.fbasic": {
+      "hash": "be0ade2475e0dbc1223c39a08360d5d1a42cb6ac0cb23b50964afe349b861264",
+      "size": 3726
+    },
+    "rocks-falling.xnb": {
+      "hash": "6d6a5f94bce1cd608b4f23a0987c0b6c6ce1e19d1b7ca93229e38d48bc5e31db",
+      "size": 262761,
+      "binary": true
+    },
+    "sample.fx": {
+      "hash": "a492e2fe6eb086afc7f5b75b4d4c028c9800131101f1c469f77e530c212fd1a6",
+      "size": 8,
+      "binary": true
+    },
+    "underwater-ambiencewav.xnb": {
+      "hash": "39333aace2f3bd806df4db76b91c8678c265379e64a52e5a49bd9b63e994c911",
+      "size": 11524713,
+      "binary": true
+    }
+  },
+  "id": "5fe91c303e77675a51547e7b299854d20d6c9d35141fb1617213ef746e8c98e4"
+}
